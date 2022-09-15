@@ -5,8 +5,14 @@ A Node.js client wrapper to work with the Magento REST API.
 ## Installation
 
 ```
-npm i magento-api-rest
+npm i git+https://github.com/fazsion-ng/magento-api-rest
+or 
+yarn add git+https://github.com/fazsion-ng/magento-api-rest
+
+add this to the script
+ "magento:install": "yarn add git+https://github.com/fazsion-ng/magento-api-rest",
 ```
+
 
 ## Setup
 
